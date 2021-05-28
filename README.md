@@ -1,0 +1,2 @@
+# dbpolicy_web_frontend
+社会政策数据库网站建设的前端项目，基于Vue和Element-UI，以开源项目Vue-element-admin为模板进行二次开发
